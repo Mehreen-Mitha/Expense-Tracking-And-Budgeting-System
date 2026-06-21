@@ -58,13 +58,13 @@ This application relies strictly on standard Java libraries and has zero externa
 Open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/Mehreen-Mitha/Hospital-Management-System.git
+git clone https://github.com/Mehreen-Mitha/Expense-Tracking-And-Budgeting-System.git
 ```
 
 2. Navigate to the Project Folder
 
 ```bash
-cd Hospital-Management-System
+cd Expense-Tracking-And-Budgeting-System
 ```
 
 3. Compile and Run
