@@ -52,7 +52,29 @@ This application relies strictly on standard Java libraries and has zero externa
 * Java Development Kit (JDK) 11 or higher installed.
 
 ### Steps
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/etabs.git](https://github.com/your-username/etabs.git)
-   cd etabs
+
+1. Clone the Repository
+
+Open your terminal or command prompt and run:
+
+```bash
+git clone https://github.com/Mehreen-Mitha/Hospital-Management-System.git
+```
+
+2. Navigate to the Project Folder
+
+```bash
+cd Hospital-Management-System
+```
+
+3. Compile and Run
+
+Depending on your project structure, use the appropriate commands. For example:
+
+```bash
+# If using javac
+javac -d bin src/*.java
+java -cp bin MainClassName
+```
+
+> **Note:** If you are using an IDE such as IntelliJ IDEA, Eclipse, or VS Code, you can simply select **Open Project** and choose the cloned folder. The IDE will automatically detect and configure the source code.
